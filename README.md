@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website 👨‍💻  
 Built with love using **HTML**, **CSS**, and **JavaScript**.
 
-🔗 **Live Portfolio:** [impxharsh.github.io/portfolio](https://impxharsh.github.io/portfolio)
+🔗 **Live Portfolio:** [impxharsh.github.io/portfolio](https://impxharsh.github.io/Portfolio)
 
 ---
 
